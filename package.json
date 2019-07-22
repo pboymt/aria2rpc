@@ -1,0 +1,22 @@
+{
+  "name": "aria2rpc",
+  "version": "0.0.1",
+  "description": "torrents reciever",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "torrents"
+  ],
+  "author": "pboymt",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "typescript": "^3.5.3"
+  }
+}
